@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.firstName {
+  background-color: #ffffff;
+  color: #fc63a7;
+  border-radius: 5px;
+  border: 0px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-weight: bold;
+}
+.lastName {
+  background-color: #ffffff;
+  color: #fc63a7;
+  border-radius: 5px;
+  border: 0px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-weight: bold;
+}
+.card-name {
+  background-color: #fddddb;
+  height: 100px;
+  width: 247px;
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 27px;
+  font-weight: bold;
+  color: #000000;
+  border-radius: 7px;
+  padding-top: 47px;
+  padding-bottom: 47px;
+  padding-left: 102px;
+  padding-right: 102px;
+  text-align: center;
+}
